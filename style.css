@@ -218,7 +218,7 @@ a {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 996px) {
 	.nav > a {
 		font-size: 1rem;
 	}
